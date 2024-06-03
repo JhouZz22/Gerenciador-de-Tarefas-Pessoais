@@ -1,8 +1,9 @@
-# <h1 align="center">Gerenciador-de-Tarefas Pessoais
+# <h1 align="center">Gerenciador de Tarefas Pessoais 🗃
 <p align="center"> Com a rotina cansativa de trabalho e estudo, muitas vezes esquecemos de nos organizar em outras tarefas de nossa vida, faltando tempo para assuntos importantes, e até mesmo para lazer. Para pessoas que não conseguem gerenciar muito bem suas tarefas pessoais, o “Planeje-se” te possibilita organizar melhor seu tempo, garantindo seu conforto e comodidade sem preocupações. Somos o único que te garante um fácil entendimento do processo de uso, para uma experiência simples, rápida e funcional. O “Planeje-se”, se torna incomparável para os usuários, proporcionando uma experiência única e insubstituível.
 <h2>Guia de usuário</h2>
 <h3>Instalação</h3>
-Abra o repositorio https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais.
+
+ Abra o repositorio - [Gerenciador de Tarefas Pessoais](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais)
 
 Baixe os 3 arquivos : 
 
@@ -23,39 +24,54 @@ Mova os arquivos baixados para a pasta do projeto criado e aceite a opção em a
 
 <h4>Início</h4> 
 
+Menu Principal
 
 ![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/cb6315ee-b3a3-4771-be61-755d682197b3)
 
 
-Opção 1 - Adicionar tarefa
+Opção 1. Adicionar tarefa
 
+No menu principal, selecione a opção “Adicionar Tarefa”. Nele será solicitado que você insira o título da tarefa 
 
 ![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/5b2f752d-3798-49a4-8cda-0e165e126b6a)
 
-Prioridade
+1.1 Prioridade
+
+Logo em seguida sua prioridade entre baixa, média ou alta.
 
 ![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/cd4b8e37-d1fc-4f14-b029-4c6a43451f36)
 
 
-Data
+1.2 Data
+
+Em seguida, você será solicitado a inserir a data e hora de entrega da tarefa. 
+<br>Certifique-se de inserir uma data e hora válidas.
 
 ![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/766adab9-30ca-4f6f-8df6-f29cc2518100)
 
-Hora
-
 ![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/0f8f1565-c83f-4bbf-babd-e29a6456b4d5)
 
-Tarefa adicionada
+Tarefa adicionada !
 
 
 ![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/68fcb2b4-d5f5-4a12-9799-8c6bf0e133ca)
 
-Opção 2 - Listar tarefas
+Opção 2. Listar tarefas
+
+No menu principal, selecione a opção “Listar Tarefas”.
+<br>Todas as tarefas registradas serão exibidas com seus respectivos detalhes
+<br>incluindo título, prioridade, data de criação, data de entrega e status (concluída ou não concluída).
+
 
 
 ![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/24a1e114-5f62-4721-9891-95566d4af315)
 
-Opção 3 -Deletar tarefa
+Opção 3. Deletar tarefa
+
+No menu principal, selecione a opção “Excluir Tarefa”.
+<br>Será solicitado que você insira o número da tarefa que deseja excluir.
+<br>A tarefa selecionada será removida permanentemente do sistema.
+
 
 
 ![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/a7ab4572-2c14-4448-8597-d682f168b95f)
@@ -66,7 +82,12 @@ Tarefa deletada
 
 ![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/d85ab8d7-9045-4833-b099-8e0d91a5d0d3)
 
-Opção 4 -Alterar status
+Opção 4. Alterar status
+
+No menu principal, selecione a opção “Alterar Status da Tarefa”.
+<br>Será solicitado que você insira o número da tarefa que deseja alterar.
+<br>O status da tarefa será alterado entre concluída e não concluída.
+
 
 
 ![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/0942ecf3-68ad-4e2f-859a-a3898baa69ad)
@@ -77,7 +98,11 @@ Status alterado
 ![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/06869228-c03a-4a54-b693-7782239668ad)
 
 
-Opção 5 - Editar tarefa
+Opção 5. Editar tarefa
+
+No menu principal, selecione a opção “Editar Tarefa”.
+<br>Você será solicitado a inserir o número da tarefa que deseja editar.
+<br>Siga as instruções que serão exibidas para inserir os novos detalhes da tarefa.
 
 
 ![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/f542c6a0-8e0d-4d04-b1e4-ee398fc50d4e)
@@ -92,6 +117,8 @@ Prioridade
 
 Data
 
+Ao colocar "S" será solicitado que coloque uma nova data e hora
+
 ![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/a3b81f0d-ef22-45a8-b568-c78a8259580d)
 
 
@@ -105,10 +132,24 @@ Tarefa editada
 
 ![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/6e7b6bb0-6d20-4198-932e-e1039eb74eea)
 
-Opção 6 - Sair
+Opção 6. Sair
 
 
 ![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/19346dca-29bf-42f6-b1f5-2f7818a09599)
+
+
+<h2>Problemas e Soluções</h2>
+<p align="justify">Assim como qualquer projeto realizado, também enfrentamos desafios, mas com muito esforço conseguimos superá-los e realizar um projeto satisfatório que contribuiu para o nosso desenvolvimento acadêmico.  Durante o projeto o obstáculo que mais tivemos dificuldade foi fazer com que a data e a hora de entrega da tarefa funcionassem de maneira conjunta e correta, para que assim o sistema reconhecesse que precisavam ser posteriores a data e a hora atual da criação da tarefa. A maneira que encontramos para realizar essa correção foi realizar um ajuste na lógica de validação da função “adicionarTarefa”, dessa maneira facilitando e aprimorando a adição das tarefas. Apesar de termos atingido todos os  principais requisitos de nosso sistema, algumas funcionalidades ainda podem ser aprimoradas e adicionadas no futuro, como por exemplo adicionar um cadastro de usuário, melhorar a interface e funcionalidades adjacentes do sistema, para que dessa forma o projeto seja cada vez mais completo e funcional.</p>
+
+<h2>Membros do Projeto 🤝</h2>
+
+* **Ana Júlia Mantovani** - [AnaJuliaMantovani](https://github.com/Anajuliamantovani)
+
+* **Érika Percebon de Souza** - [ÉrikaPercebon](https://github.com/erikapercebon)
+
+* **Jonathan Medeiros Silva** - [JonathanMedeiros](https://github.com/JMeschiatti)
+
+* **João Victor Meschiatti Magioli** - [JoãoMeschiatti](https://github.com/JhouZz22)
 
 
 

@@ -14,7 +14,49 @@ Baixe os 3 arquivos :
   
 Instale o Clion e crie um novo projeto em *C executable*.
 
-Mova os arquivos baixados para a pasta do projeto criado. sdasdsa
+Mova os arquivos baixados para a pasta do projeto criado e aceite a opção em amarelo de adicionar ao CMake Project: 
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/e9a3c3d8-7eea-4073-b6b8-f6078934712a)
+
+<h3>Utilização</h3>
+
+
+Início 
+
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/cb6315ee-b3a3-4771-be61-755d682197b3)
+
+
+Adicionar tarefa
+
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/5b2f752d-3798-49a4-8cda-0e165e126b6a)
+
+Prioridade
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/cd4b8e37-d1fc-4f14-b029-4c6a43451f36)
+
+
+data
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/766adab9-30ca-4f6f-8df6-f29cc2518100)
+
+Hora
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/0f8f1565-c83f-4bbf-babd-e29a6456b4d5)
+
+Tarefa adicionada
+
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/68fcb2b4-d5f5-4a12-9799-8c6bf0e133ca)
+
+
+
+
+
+
+
+
 
 
 

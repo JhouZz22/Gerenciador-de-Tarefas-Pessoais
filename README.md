@@ -37,7 +37,7 @@ Prioridade
 ![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/cd4b8e37-d1fc-4f14-b029-4c6a43451f36)
 
 
-data
+Data
 
 ![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/766adab9-30ca-4f6f-8df6-f29cc2518100)
 

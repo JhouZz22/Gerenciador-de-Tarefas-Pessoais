@@ -14,7 +14,7 @@ Baixe os 3 arquivos :
   
 Instale o Clion e crie um novo projeto em *C executable*.
 
-Mova os arquivos baixados para a pasta do projeto criado.
+Mova os arquivos baixados para a pasta do projeto criado. sdasdsa
 
 
 

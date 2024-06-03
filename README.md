@@ -21,7 +21,7 @@ Mova os arquivos baixados para a pasta do projeto criado e aceite a opção em a
 <h3>Utilização</h3>
 
 
-Início 
+<h4>Início</h4> 
 
 
 ![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/cb6315ee-b3a3-4771-be61-755d682197b3)
@@ -49,6 +49,73 @@ Tarefa adicionada
 
 
 ![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/68fcb2b4-d5f5-4a12-9799-8c6bf0e133ca)
+
+Listar tarefas
+
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/24a1e114-5f62-4721-9891-95566d4af315)
+
+Deletar tarefa
+
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/a7ab4572-2c14-4448-8597-d682f168b95f)
+
+
+Tarefa deletada
+
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/d85ab8d7-9045-4833-b099-8e0d91a5d0d3)
+
+Alterar status
+
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/0942ecf3-68ad-4e2f-859a-a3898baa69ad)
+
+Status alterado
+
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/06869228-c03a-4a54-b693-7782239668ad)
+
+
+Editar tarefa
+
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/f542c6a0-8e0d-4d04-b1e4-ee398fc50d4e)
+
+Nome 
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/2ed7fd23-9979-4bf5-a764-3632b81e61c3)
+
+Prioridade
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/6718b108-30ac-4f63-bf76-1e84ac921ba7)
+
+Data
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/a3b81f0d-ef22-45a8-b568-c78a8259580d)
+
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/d50328e6-b34f-412e-95b7-37306a6a55ff)
+
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/389e87dd-ddfb-461e-bbba-790bf97a53ca)
+
+Tarefa editada
+
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/6e7b6bb0-6d20-4198-932e-e1039eb74eea)
+
+Sair
+
+
+![image](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/assets/151959498/19346dca-29bf-42f6-b1f5-2f7818a09599)
+
+
+
+
+
+
+
 
 
 

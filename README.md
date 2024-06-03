@@ -7,11 +7,11 @@
 
 Baixe os 3 arquivos : 
 
-* [main.c](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/blob/main/main.c) 
+* **main.c**
 
-* [tarefas.c](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/blob/main/tarefas.c)
+* **tarefas.c**
 
-* [tarefas.h](https://github.com/JhouZz22/Gerenciador-de-Tarefas-Pessoais/blob/main/tarefas.h)
+* **tarefas.h**
   
 Instale o Clion e crie um novo projeto em *C executable*.
 
